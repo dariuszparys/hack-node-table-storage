@@ -1,0 +1,24 @@
+{
+  "name": "hack-node-table-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "azure-storage": "^0.6.0",
+    "node-uuid": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writeline/hack-node-table-storage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writeline/hack-node-table-storage/issues"
+  },
+  "homepage": "https://github.com/writeline/hack-node-table-storage#readme"
+}
